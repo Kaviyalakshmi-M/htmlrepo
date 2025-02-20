@@ -1,0 +1,55 @@
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline double rgb(151, 12, 12);
+}
+table{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+th{
+    padding: 8px 15px 8px 15px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td{
+    padding: 25px 15px 25px 15px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    
+}
+.tam{
+    background-color: rgb(233, 14, 98);
+}
+.en{
+    background-color: skyblue;
+}
+.mat{
+    background-color: green;
+}
+.sci{
+    background-color: orangered;
+}
+.soc{
+    background-color: gold;
+}
+.pt{
+    background-color: blue;
+}
+.sun{
+    background-color: red;
+    font-weight: bolder;
+}
