@@ -1,0 +1,25 @@
+body{
+    background-image: url('https://storage.needpix.com/rsynced_images/blue-1273089_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    background-color: azure;
+}
+.label{
+    font-weight: bolder;
+    font-family: Arial;
+}
+#name{
+    color: black;
+}
+table{
+    background-color: rgb(6, 132, rgb(10, 10, 243));
+    color: rgb(46, 23, 68);
+    border-color: black;
+    border-radius: 3%;
+    border-style: dashed;
+    border-collapse: collapse;
+    padding: 10px;
+    margin: 10px;
+}
