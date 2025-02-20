@@ -1,0 +1,75 @@
+body{
+    background-color: black;
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+table{
+    background-color: rgb(94, 91, 91);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    font-weight: 500;
+    
+}
+table,th,td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+.h1{
+    text-transform: uppercase;
+    background-color: white;
+    color: black;
+}
+.h1, .plans{
+    text-align: left;
+    padding: 10px 20px 10px 20px;
+}
+.h2{
+    text-transform: uppercase;
+    background-color: gold;
+    color: white;
+    padding: 5px 15px 5px 15px;
+}
+.h3{
+    text-transform: uppercase;
+    background-color: tomato;
+    color: white;
+    padding: 5px 15px 5px 15px;
+}
+.h4{
+    text-transform: uppercase;
+    background-color: turquoise;
+    color: white;
+    padding: 5px 15px 5px 15px;
+}
+.starter
+{
+    font-weight: bolder;
+    color: gold;
+}
+.advance{
+    color: tomato;
+    font-weight: bolder;
+}
+.enterprise{
+    color: turquoise;
+    font-weight: bolder;
+}
+.emoji{
+    color:gold;
+    font-weight: bolder;
+    font-size: large;
+}
+button{
+    color: white;
+    font-size: medium;
+    background-color: red;
+    border-radius: 16px;
+    border: none;
+    text-align: center;
+    padding: 5px 10px;
+}
