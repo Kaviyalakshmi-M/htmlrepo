@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman';
+    background-image: url(https://marketplace.canva.com/EAFlbrs1WbA/1/0/1600w/canva-red-and-bluecolorful-botanical-watercolor-desktop-wallpaper-XtT0rsEk4sM.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    font-size: large;
+
+}
+
+h1 {
+    color: rgb(247, 98, 12);
+    text-shadow: 1px 1px;
+    text-align: center;
+}
+
+form {
+    padding: 20px 50px;
+    border: 2px solid black;
+    border-radius: 16px;
+    background: transparent;
+    backdrop-filter: blur(20px);
+    margin: 5px 80px 5px 80px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    color: black;
+    padding-bottom: 8px;
+    font-size: larger;
+}
+
+input[type=text], input[type=number], input[type=email] {
+
+    width: 75%;
+    padding: 7px;
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 12px 40px;
+    margin: 10px 0px;
+    border: none;
+
+}
+
+button:hover {
+    background-color: rgb(44, 54, 197);
+}
